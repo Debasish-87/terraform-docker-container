@@ -193,7 +193,7 @@ resource "docker_container" "nginx_container" {
 
 ### 4. Nginx Running in Browser
 
-![Nginx Running](screenshots/nginx-succesfully-run.png)
+![Nginx Running](screenshots/nginx-succesfully-running.png)
 *Nginx welcome page served on localhost:8080.*
 
 ---
